@@ -3,6 +3,9 @@
 Real-Time Emotion Detection and Screen Time Tracker
 !Emotion Detection <!-- Replace with an actual screenshot or relevant image -->
 
+Real-Time Emotion Detection and Screen Time Tracker
+!Emotion Detection <!-- Replace with an actual screenshot or relevant image -->
+
 Project Overview: The Real-Time Emotion Detection and Screen Time Tracker is a Python application that combines two powerful features:
 
 Emotion Detection: It analyzes faces captured by your webcam and predicts the dominant emotion (e.g., happy, sad, surprised) using DeepFace.
